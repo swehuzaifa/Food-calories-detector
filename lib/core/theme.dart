@@ -9,6 +9,7 @@ class AppTheme {
       colorScheme: ColorScheme.fromSeed(
         seedColor: AppColors.primaryYellow,
         brightness: Brightness.light,
+        
         primary: AppColors.primaryYellow,
         onPrimary: AppColors.darkText,
         surface: AppColors.white,
